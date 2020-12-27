@@ -23,6 +23,7 @@
 
 ###  Projects
 
+---
 [Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
