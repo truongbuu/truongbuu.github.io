@@ -1,14 +1,33 @@
-## Projects
+## Porfolio
 
 ---
 
-### Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar 
+###  Experience
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
-[Project 1 Title](/sample_page)
+---
+
+### Education
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
+###  Projects
+
+[Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Bayesian Uncertainty Quantification with Synthetic Data](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +36,7 @@
 
 ---
 
-### Bayesian Uncertainty Quantification with Synthetic Data 
+### Education
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
