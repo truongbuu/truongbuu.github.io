@@ -22,6 +22,7 @@
 - **International University, VNU** (2012-2016)
 
   Bachelor of Engineering
+  
 ---
 
 ###  Projects
