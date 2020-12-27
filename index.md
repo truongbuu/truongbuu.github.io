@@ -3,8 +3,8 @@
 ---
 
 ###  Experience
-- [Automotive Computer Vision Researcher](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- Automotive Computer Vision Researcher (http://example.com/)
+- Research Assistant
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
@@ -13,11 +13,8 @@
 
 ### Education
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- Master of Applied Science 
+- Bachelor of Engineering
 
 ---
 
