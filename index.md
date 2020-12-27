@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Bayesian Uncertainty Quantification with Synthetic Data 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
