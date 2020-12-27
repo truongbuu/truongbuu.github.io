@@ -42,6 +42,7 @@ Second International Workshop on Artificial Intelligence Safety Engineering, SAF
 
 Samin Khan, **Buu Phan**,  Rick Salay, Krzysztof Czarnecki
 
+CVPR 2019, Vision for all Seasons Workshop
 <img src="images/exp1_robustness.png?raw=true"/>
 
 ---
