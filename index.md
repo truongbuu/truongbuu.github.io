@@ -13,7 +13,8 @@
 
 ### Education
 
-- Master of Applied Science 
+- **University of Waterloo**
+-- Master of Applied Science 
 - Bachelor of Engineering
 
 ---
