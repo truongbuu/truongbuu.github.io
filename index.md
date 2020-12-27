@@ -13,10 +13,10 @@
 
 ### Education
 
-- **University of Waterloo**
+- **University of Waterloo** (2017-2019)
 
-  Master of Applied Science 
-- **International University, VNU**
+  Master of Applied Science
+- **International University, VNU** (2012-2016)
 
   Bachelor of Engineering
 ---
