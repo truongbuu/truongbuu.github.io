@@ -29,7 +29,12 @@ CVPR 2020
 <img src="images/nlos-1.png?raw=true"/>
 
 ---
-[Bayesian Uncertainty Quantification with Synthetic Data](/pdf/sample_presentation.pdf)
+[Bayesian Uncertainty Quantification with Synthetic Data](https://link.springer.com/chapter/10.1007/978-3-030-26250-1_31)
+
+**Buu Phan**, Samin Khan, Rick Salay, Krzysztof Czarnecki
+
+Second International Workshop on Artificial Intelligence Safety Engineering, SAFECOMP 2019. (Best paper) 
+[pdf](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/sites/ca.waterloo-intelligent-systems-engineering-lab/files/uploads/files/waise.pdf)
 <img src="images/bayesian_uncer.png?raw=true"/>
 
 ---
