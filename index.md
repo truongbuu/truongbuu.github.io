@@ -22,6 +22,8 @@
 
 ---
 [Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar](/sample_page)
+Nicolas Scheiner, Florian Kraus, Fangyin Wei, Buu Phan, Fahim Mannan, Nils Appenrodt, Werner Ritter, Jürgen Dickmann, Klaus Dietmayer, Bernhard Sick, Felix Heide
+CVPR 2020
 <img src="images/nlos-1.png?raw=true"/>
 
 ---
