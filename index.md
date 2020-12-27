@@ -22,7 +22,7 @@
 
 ---
 [Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar](/sample_page)
-<img src="images/NLOS_principle-1.png?raw=true"/>
+<img src="images/nlos.png?raw=true"/>
 
 ---
 [Bayesian Uncertainty Quantification with Synthetic Data](/pdf/sample_presentation.pdf)
