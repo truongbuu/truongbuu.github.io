@@ -14,9 +14,11 @@
 ### Education
 
 - **University of Waterloo**
--- Master of Applied Science 
-- Bachelor of Engineering
 
+  Master of Applied Science 
+- **International University, VNU**
+
+  Bachelor of Engineering
 ---
 
 ###  Projects
