@@ -39,7 +39,10 @@ Second International Workshop on Artificial Intelligence Safety Engineering, SAF
 
 ---
 [ProcSy: Procedural Synthetic Dataset Generation Towards Influence Factor Studies Of Semantic Segmentation Networks](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Vision%20for%20All%20Seasons%20Bad%20Weather%20and%20Nighttime/Khan_ProcSy_Procedural_Synthetic_Dataset_Generation_Towards_Influence_Factor_Studies_Of_CVPRW_2019_paper.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+Samin Khan, **Buu Phan**,  Rick Salay, Krzysztof Czarnecki
+
+<img src="images/exp1_robustness.png?raw=true"/>
 
 ---
 
