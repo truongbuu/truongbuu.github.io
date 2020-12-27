@@ -3,9 +3,12 @@
 ---
 
 ###  Experience
-- Automotive Computer Vision Researcher (http://example.com/)
-- Research Assistant
-- [Project 3 Title](http://example.com/)
+- Algolux (https://algolux.com/)
+
+  Computer Vision Researcher
+- Waterloo Intelligent Systems Engineering (WISE) lab
+
+  Research Assistant 
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
