@@ -25,7 +25,7 @@
   
 ---
 
-###  Projects
+###  Publications
 
 ---
 [Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar](https://www.cs.princeton.edu/~fheide/DopplerNLOS/)
