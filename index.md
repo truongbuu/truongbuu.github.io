@@ -30,6 +30,8 @@ Nicolas Scheiner, Florian Kraus, Fangyin Wei, **Buu Phan**, Fahim Mannan, Nils A
 CVPR 2020
 <img src="images/nlos-1.png?raw=true"/>
 
+---
+
 [Bayesian Uncertainty Quantification with Synthetic Data](https://link.springer.com/chapter/10.1007/978-3-030-26250-1_31)
 
 **Buu Phan**, Samin Khan, Rick Salay, Krzysztof Czarnecki
@@ -37,6 +39,8 @@ CVPR 2020
 Second International Workshop on Artificial Intelligence Safety Engineering, SAFECOMP 2019. (Best paper) 
 [pdf](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/sites/ca.waterloo-intelligent-systems-engineering-lab/files/uploads/files/waise.pdf)
 <img src="images/bayesian_uncer.png?raw=true"/>
+
+---
 
 [ProcSy: Procedural Synthetic Dataset Generation Towards Influence Factor Studies Of Semantic Segmentation Networks](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Vision%20for%20All%20Seasons%20Bad%20Weather%20and%20Nighttime/Khan_ProcSy_Procedural_Synthetic_Dataset_Generation_Towards_Influence_Factor_Studies_Of_CVPRW_2019_paper.pdf)
 
