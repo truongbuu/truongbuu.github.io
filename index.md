@@ -5,7 +5,7 @@
 - [Waterloo Intelligent Systems Engineering (WISE) Lab](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/) (Sep 2017 - Sep 2019)
 
   Research Assistant 
-- [BlueSeed Digital]
+- BlueSeed Digital (Dec 2016 - Jul 2017)
 
   Data Scientist Intern
 ---
