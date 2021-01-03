@@ -8,6 +8,7 @@
 - BlueSeed Digital (Dec 2016 - Jul 2017)
 
   Data Scientist Intern
+  
 ---
 
 ### Education
