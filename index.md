@@ -55,6 +55,15 @@ CVPR 2019, Vision for all Seasons Workshop
 
 ---
 
+[Analysis of confident-classifiers for out-of-distribution detection](https://arxiv.org/abs/1904.12220)
+
+Sachin Vernekar, Ashish Gaurav, Taylor Denouden, **Buu Phan**, Vahdat Abdelzad, Rick Salay, Krzysztof Czarnecki
+
+Safe Machine Learning workshop, ICLR 2019
+<img src="images/outlier.png?raw=true"/>
+
+---
+
 ### Education
 
 - [Project 1 Title](http://example.com/)
