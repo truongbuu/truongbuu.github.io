@@ -63,17 +63,7 @@ Sachin Vernekar, Ashish Gaurav, Taylor Denouden, **Buu Phan**, Vahdat Abdelzad, 
 Safe Machine Learning workshop, ICLR 2019
 <img src="images/outlier.png?raw=true"/>
 
----
 
-### Education
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
