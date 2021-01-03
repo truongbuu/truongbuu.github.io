@@ -5,9 +5,9 @@
 - [Waterloo Intelligent Systems Engineering (WISE) Lab](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/) (Sep 2017 - Sep 2019)
 
   Research Assistant 
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [BlueSeed Digital]
 
+  Data Scientist Intern
 ---
 
 ### Education
