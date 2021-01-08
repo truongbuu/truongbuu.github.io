@@ -1,12 +1,9 @@
 ###  Experience
 - [Algolux](https://algolux.com/) (Oct 2019 - Present)
-
   Computer Vision Researcher
 - [Waterloo Intelligent Systems Engineering (WISE) Lab](https://uwaterloo.ca/waterloo-intelligent-systems-engineering-lab/) (Sep 2017 - Sep 2019)
-
   Research Assistant 
 - BlueSeed Digital (Dec 2016 - Jul 2017)
-
   Data Scientist Intern
   
 ---
